@@ -1,0 +1,5 @@
+GeoFIreDemo it is a simeple Goe Location Searching app where user login to the firebase. Once he logged in he can set his location using SetGeo button. and as well
+as he can view the users on the map using view users. While viewing he adjust the radius so that it will show only the registered users within the radius.
+For simplicity i had not created the signup option
+Login Id : jack@mail.com
+Password : 123456
